@@ -1,0 +1,14 @@
+.red{
+    color: red;
+    font-size: 34px;
+}
+
+.content{
+    color: blue;
+    background-color: yellow;
+    padding-left: 100px;
+    background-image: url("spiderman.jpg");
+    height: 80%;
+    width: 65%;
+    
+}
